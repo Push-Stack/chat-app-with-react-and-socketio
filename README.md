@@ -6,7 +6,7 @@ Lets start this app.
 
 · You need to download and install node js on your machine if u don’t have node js installed.
 
-· Unzip order-completed file using winrar.
+
 
 ## How to install App?
 
