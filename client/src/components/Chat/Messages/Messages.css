@@ -1,0 +1,23 @@
+.messagesDiv {
+  height: 44vh;
+  overflow: scroll;
+}
+
+.messagesDiv::-webkit-scrollbar {
+  width: 20px;
+}
+
+.messagesDiv::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px rgb(54, 52, 52);
+  border-radius: 10px;
+}
+
+.messagesDiv::-webkit-scrollbar-thumb {
+  background: rgb(61, 58, 58);
+  border-radius: 10px;
+}
+
+.scroll {
+  overflow: auto;
+  flex: auto;
+}
